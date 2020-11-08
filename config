@@ -1,0 +1,29 @@
+#Config File for AutoMadoHomu
+
+[Pixiv]
+pixivUsername = ""
+pixivPassword = ""
+
+[Tumblr]
+#API Keys for Tumblr 
+consumerKey = ""
+consumerSecret = ""
+oauthToken = ""
+oauthTokenSecret = ""
+blogNumber = 0
+
+[Downloading]
+#Parameters
+delay = 
+saveimages = 
+
+[Directories]
+#Where Images are stored
+files = DEFAULT
+temp = DEFAULT
+
+[Formatting]
+#Caption formatting
+
+[Extras]
+
